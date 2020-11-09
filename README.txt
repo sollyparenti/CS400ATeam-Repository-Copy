@@ -1,3 +1,4 @@
+# This is a copy of https://github.com/ZanderKeith/CS400ATeam
 README
 
 Course: CS400
