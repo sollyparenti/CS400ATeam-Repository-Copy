@@ -6,11 +6,11 @@ Course: CS400
 Semester: Spring 2020
 Project name: Milk Weight
 Team Members:
-    1. Zander Keith,   LEC001, zkeith@wisc.edu
-    2. Daniel Levy,    LEC001, dslevy2@wisc.edu
-    3. Matthew Holmes, LEC001, mrholmes@wisc.edu
-    4. Solly Parenti,  LEC001, sparenti@wisc.edu
-    5. Hyejin Yeon,    LEC001, hyeon2@wisc.edu
+    1. Zander Keith,   LEC001, *@wisc.edu
+    2. Daniel Levy,    LEC001, *@wisc.edu
+    3. Matthew Holmes, LEC001, *@wisc.edu
+    4. Solly Parenti,  LEC001, *@wisc.edu
+    5. Hyejin Yeon,    LEC001, *@wisc.edu
 
 Q. Which team members were on same xteam together?
 
